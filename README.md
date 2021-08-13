@@ -1,5 +1,5 @@
 # bpatogalaxy
-BPA to Galaxy repot to store early POCs and other relevant documents
+BPA to Galaxy repo to store early POCs and other relevant documents
 
 # Instructions for running POCs
 1. If already installed skip step 1 
